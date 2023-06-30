@@ -15,8 +15,7 @@ then take pictures Realtime then will upload to Discord Server using Webhooks.
 ## Note
 
 -   The VRChat image must be modified by [VRCX](https://github.com/pypy-vrc/VRCX) to contain the necessary metadata.
--   If you don't want to copy your webhook each time you run it, you can add your webhook to DISCORD_WEBHOOK_URL`"https://discord.com/api/webhooks/your-webhook-url"` in the code with your actual webhook URL.
-
+-   Make sure put Discord Webhook URL in .env file or wont Run/Send
 ## Requirements
 
 -   Python 3.6 or later
